@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string name="lets_roll_some_dice">Lets Roll Some Dice!</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="welcome_to_lesson_1">Welcome To Lesson 1!</string>
+    <string name="dice">Dice</string>
+    <string name="gradient">Gradient</string>
+</resources>
